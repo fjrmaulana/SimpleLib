@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Calculate Value</Title>
+    <Description>Untuk Mengkalkulasikan 2 bilangan</Description>
+    <Copyright>@fajarsoft</Copyright>
+    <PackageProjectUrl>https://fajarsoft.com</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
